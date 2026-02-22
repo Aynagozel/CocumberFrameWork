@@ -1,5 +1,3 @@
-Cucumber Automation Framework
-Overview
 This project is a Java-based BDD automation framework built using Selenium WebDriver, Cucumber, and Maven. It uses Gherkin feature files, step definitions, hooks, and runner classes to create readable and maintainable automated UI tests.
 
 Technologies Used
@@ -34,6 +32,17 @@ Hooks for setup and teardown
 Reusable step definitions
 
 Centralized runner configuration
+
+Test Coverage
+UI scenarios written in Gherkin
+
+Step definition mapping
+
+Hook-based setup and teardown
+
+Runner-level configuration
+
+Basic regression execution
 
 How to Run Tests
 mvn clean test
